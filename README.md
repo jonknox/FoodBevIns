@@ -9,4 +9,3 @@ In this workspace you can:
 3. Install additional libraries and tools in the terminal.
 4. Author new commands that will executed in the runtime.
 5. Use SSH to connect remote clients.
-ewwe
